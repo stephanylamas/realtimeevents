@@ -1,0 +1,12 @@
+{
+  "event_id": "uuid",
+  "event_type": "view | like | comment | share | save | repost",
+  "user_id": "string",
+  "content_id": "string",
+  "event_timestamp": "ISO-8601",
+  "ingestion_timestamp": "ISO-8601",
+  "device_type": "mobile | web",
+  "platform": "ios | android | web",
+  "country": "US",
+  "session_id": "string"
+}
